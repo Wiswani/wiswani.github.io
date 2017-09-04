@@ -2313,14 +2313,6 @@ body {
     border-left: .30em solid transparent;
   }
 }
-.cid-qsEgTUeUCM {
-  padding-top: 120px;
-  padding-bottom: 60px;
-  background-color: #0f7699;
-}
-.cid-qsEgTUeUCM H2 {
-  text-align: left;
-}
 .cid-qtpe8iPZt6 .navbar {
   background: #ffffff;
   transition: none;
@@ -2683,6 +2675,11 @@ body {
     border-right: .30em solid transparent;
     border-left: .30em solid transparent;
   }
+}
+.cid-quii7Us5m4 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background4.jpg");
 }
 .cid-qsAu6LQ7e5 {
   padding-top: 105px;
