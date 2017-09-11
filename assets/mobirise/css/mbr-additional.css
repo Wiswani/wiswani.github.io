@@ -8233,7 +8233,7 @@ body {
 }
 .cid-qtl30XHrD9 {
   padding-top: 120px;
-  padding-bottom: 60px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-qtl30XHrD9 .mbr-text,
@@ -8605,6 +8605,15 @@ body {
     border-right: .30em solid transparent;
     border-left: .30em solid transparent;
   }
+}
+.cid-quKCWTT0SW {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-quKCWTT0SW .mbr-text,
+.cid-quKCWTT0SW blockquote {
+  color: #767676;
 }
 .cid-qtl2NyGiPo {
   padding-top: 120px;
