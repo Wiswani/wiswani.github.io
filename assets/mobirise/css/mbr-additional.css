@@ -1964,6 +1964,7 @@ body {
 }
 .cid-qHRm9imSy7 H2 {
   color: #7f1933;
+  text-align: center;
 }
 .cid-qHRm9imSy7 B {
   color: #232323;
@@ -2042,13 +2043,13 @@ body {
   }
 }
 .cid-qHb2JKONEM .navbar {
-  background: #55b4d4;
+  background: #cccccc;
   transition: none;
   min-height: 77px;
   padding: .5rem 0;
 }
 .cid-qHb2JKONEM .navbar-dropdown.bg-color.transparent.opened {
-  background: #55b4d4;
+  background: #cccccc;
 }
 .cid-qHb2JKONEM a {
   font-style: normal;
@@ -2132,7 +2133,7 @@ body {
   padding-bottom: 0;
 }
 .cid-qHb2JKONEM .dropdown .dropdown-menu {
-  background: #55b4d4;
+  background: #cccccc;
   display: none;
   position: absolute;
   min-width: 5rem;
